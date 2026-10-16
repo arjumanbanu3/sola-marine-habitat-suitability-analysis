@@ -45,7 +45,7 @@ The following environmental datasets were used:
 ## Habitat Groups
 There area 21 nature types according to NiN3 method. For making the analysis simple and organize the habitats divided into 4 major groups.
 
-### Marine Vegetation / Macroalgae
+### Marine Vegetation / Macroalgae (Klep)
 
 - NT-03 Tangsamfunn
 - NT-14 Sukkertareskog
