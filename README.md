@@ -131,7 +131,9 @@ The richness maps were combined into a final:
 which identifies areas with high concentrations of potential marine habitats.
 
 <img width="3507" height="2480" alt="Hotspot_Map_V2" src="https://github.com/user-attachments/assets/a0b66136-0290-478c-a358-a3b7be31b7a1" />
+
 ##### Final Hot Spot Map for Study Area.
+
 
 ### 4. Getis-Ord Gi* Analysis
 
