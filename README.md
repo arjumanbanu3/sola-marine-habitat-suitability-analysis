@@ -141,6 +141,7 @@ Raster hotspot scores were converted to points and analyzed using Getis-Ord Gi* 
 - Statistically significant coldspots
 
   <img width="3507" height="2480" alt="Getis-Ord Gi Hotspot and Coldspot Analysis" src="https://github.com/user-attachments/assets/53ba280b-9dd5-4ccc-ac0c-bd9585e12c30" />
+
   
 ##### Figure: Getis-Ord Gi* Analysis. 
 
@@ -156,7 +157,8 @@ Model outputs were visually compared with:
 
 This comparison was used to evaluate habitat suitability predictions and hotspot distributions.
 
-<img width="1232" height="560" alt="image" src="https://github.com/user-attachments/assets/26a75bb6-61f3-4037-b5d6-4ccef2da8866" />
+<img width="1232" height="560" alt="image" src="https://github.com/user-attachments/assets/26a75bb6-61f3-4037-b5d6-4ccef2da8866" /> 
+
 ##### Figure: Compariron of suitability map for klep with HB_19.
 
 ---
@@ -173,6 +175,7 @@ A reusable QGIS Model Builder workflow was developed to automate:
 - Hotspot mapping
 
 <img width="3985" height="2845" alt="Model_Builder_Sola" src="https://github.com/user-attachments/assets/7e7cc1d4-a90b-41b0-865a-73a30a29df9f" />
+
 ##### Figure: Work flow with Model Builder. 
 
 ### Python
