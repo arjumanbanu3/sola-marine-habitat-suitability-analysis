@@ -27,7 +27,7 @@ Marine study area extending from the shoreline to approximately 30 m water depth
 
 <img width="3507" height="2480" alt="Study area_Sola" src="https://github.com/user-attachments/assets/b5db49ab-d224-416c-92d3-c96638a347f1" />
 
-
+#### Figure: Studay Area (Sola). 
 ---
 
 ## Environmental Variables
