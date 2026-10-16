@@ -131,7 +131,7 @@ The richness maps were combined into a final:
 which identifies areas with high concentrations of potential marine habitats.
 
 <img width="3507" height="2480" alt="Hotspot_Map_V2" src="https://github.com/user-attachments/assets/a0b66136-0290-478c-a358-a3b7be31b7a1" />
-#### Final Hot Spot Map for Study Area.
+ #### Final Hot Spot Map for Study Area.
 
 ### 4. Getis-Ord Gi* Analysis
 
@@ -141,7 +141,8 @@ Raster hotspot scores were converted to points and analyzed using Getis-Ord Gi* 
 - Statistically significant coldspots
 
   <img width="3507" height="2480" alt="Getis-Ord Gi Hotspot and Coldspot Analysis" src="https://github.com/user-attachments/assets/53ba280b-9dd5-4ccc-ac0c-bd9585e12c30" />
-#### Figure:  Getis-Ord Gi* Analysis. 
+  
+  ####Figure: Getis-Ord Gi* Analysis. 
 
 ---
 
