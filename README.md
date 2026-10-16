@@ -27,7 +27,7 @@ Marine study area extending from the shoreline to approximately 30 m water depth
 
 <img width="3507" height="2480" alt="Study area_Sola" src="https://github.com/user-attachments/assets/b5db49ab-d224-416c-92d3-c96638a347f1" />
 
-#### Figure: Studay Area (Sola). 
+##### Figure: Studay Area (Sola). 
 ---
 
 ## Environmental Variables
@@ -108,7 +108,7 @@ Suitability classes:
 - 0 = Unsuitable
 
   <img width="3507" height="2480" alt="StorTare_map" src="https://github.com/user-attachments/assets/de6fdcbf-7387-43a1-87d2-cfeb4142b5a9" />
-#### Figure: Suitability Map for Klep forest.
+##### Figure: Suitability Map for Klep forest.
 
 ### 2. Habitat Richness Mapping
 
@@ -120,7 +120,7 @@ Individual habitat suitability maps were combined into group-level richness maps
 - Topography Richness
 
   <img width="3507" height="2480" alt="Klep_Richness_Map" src="https://github.com/user-attachments/assets/4bde63be-aae4-4f59-afec-e7511696a238" />
-#### Figure: Richness Map for Klep Group
+##### Figure: Richness Map for Klep Group
 
 ### 3. Hotspot Analysis
 
@@ -131,7 +131,7 @@ The richness maps were combined into a final:
 which identifies areas with high concentrations of potential marine habitats.
 
 <img width="3507" height="2480" alt="Hotspot_Map_V2" src="https://github.com/user-attachments/assets/a0b66136-0290-478c-a358-a3b7be31b7a1" />
- #### Final Hot Spot Map for Study Area.
+##### Final Hot Spot Map for Study Area.
 
 ### 4. Getis-Ord Gi* Analysis
 
@@ -142,7 +142,7 @@ Raster hotspot scores were converted to points and analyzed using Getis-Ord Gi* 
 
   <img width="3507" height="2480" alt="Getis-Ord Gi Hotspot and Coldspot Analysis" src="https://github.com/user-attachments/assets/53ba280b-9dd5-4ccc-ac0c-bd9585e12c30" />
   
-  ####Figure: Getis-Ord Gi* Analysis. 
+##### Figure: Getis-Ord Gi* Analysis. 
 
 ---
 
@@ -157,7 +157,8 @@ Model outputs were visually compared with:
 This comparison was used to evaluate habitat suitability predictions and hotspot distributions.
 
 <img width="1232" height="560" alt="image" src="https://github.com/user-attachments/assets/26a75bb6-61f3-4037-b5d6-4ccef2da8866" />
-#### Figure: Compariron of suitability map for klep with HB_19.
+##### Figure: Compariron of suitability map for klep with HB_19.
+
 ---
 
 ## Automation
@@ -172,7 +173,7 @@ A reusable QGIS Model Builder workflow was developed to automate:
 - Hotspot mapping
 
 <img width="3985" height="2845" alt="Model_Builder_Sola" src="https://github.com/user-attachments/assets/7e7cc1d4-a90b-41b0-865a-73a30a29df9f" />
-#### Figure: Work flow with Model Builder. 
+##### Figure: Work flow with Model Builder. 
 
 ### Python
 
