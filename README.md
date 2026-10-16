@@ -1,4 +1,4 @@
-# # Marine Habitat Suitability and Hotspot Mapping (NiN 3)
+# Marine Habitat Suitability and Hotspot Mapping (NiN 3)
 
 ## Project Overview
 
