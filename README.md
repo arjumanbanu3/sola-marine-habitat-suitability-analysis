@@ -156,7 +156,7 @@ Model outputs were visually compared with:
 This comparison was used to evaluate habitat suitability predictions and hotspot distributions.
 
 <img width="1232" height="560" alt="image" src="https://github.com/user-attachments/assets/26a75bb6-61f3-4037-b5d6-4ccef2da8866" />
-Figure: Compariron of suitability map for klep with HB_19.
+#### Figure: Compariron of suitability map for klep with HB_19.
 ---
 
 ## Automation
@@ -172,6 +172,7 @@ A reusable QGIS Model Builder workflow was developed to automate:
 
 <img width="3985" height="2845" alt="Model_Builder_Sola" src="https://github.com/user-attachments/assets/7e7cc1d4-a90b-41b0-865a-73a30a29df9f" />
 #### Figure: Work flow with Model Builder. 
+
 ### Python
 
 Python scripts were used for raster alignment and preprocessing.
