@@ -147,6 +147,22 @@ Raster hotspot scores were converted to points and analyzed using Getis-Ord Gi* 
   
 ##### Figure: Getis-Ord Gi* Analysis. 
 
+---
+
+## Validation
+
+Model outputs were visually compared with:
+
+- HB19 Marine Nature Types
+- Existing habitat datasets
+- Known ecological patterns within the study area
+
+This comparison was used to evaluate habitat suitability predictions and hotspot distributions.
+
+<img width="1232" height="560" alt="image" src="https://github.com/user-attachments/assets/26a75bb6-61f3-4037-b5d6-4ccef2da8866" /> 
+
+##### Figure: Compariron of suitability map for klep with HB_19.
+
 
 ### 5. Bivariate Local Moran's I Validation
  
@@ -165,22 +181,6 @@ HH and LL clusters indicate agreement between model predictions and mapped HB19 
 
 
 ##### Figure:  Bivariate Local Moran's I Validation of Marine Habitat Hotspot Scores Against HB19 Habitat Values.
-
----
-
-## Validation
-
-Model outputs were visually compared with:
-
-- HB19 Marine Nature Types
-- Existing habitat datasets
-- Known ecological patterns within the study area
-
-This comparison was used to evaluate habitat suitability predictions and hotspot distributions.
-
-<img width="1232" height="560" alt="image" src="https://github.com/user-attachments/assets/26a75bb6-61f3-4037-b5d6-4ccef2da8866" /> 
-
-##### Figure: Compariron of suitability map for klep with HB_19.
 
 ---
 
