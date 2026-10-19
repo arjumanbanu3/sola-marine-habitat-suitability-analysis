@@ -147,6 +147,25 @@ Raster hotspot scores were converted to points and analyzed using Getis-Ord Gi* 
   
 ##### Figure: Getis-Ord Gi* Analysis. 
 
+
+### 5. Bivariate Local Moran's I Validation
+ 
+Bivariate Local Moran's I was used to evaluate the spatial relationship between the Marine Habitat Hotspot Score and HB19 habitat value classes.
+ 
+The analysis classifies locations into four categories:
+ 
+- HH (High-High): high hotspot score associated with high HB19 values
+- LL (Low-Low): low hotspot score associated with low HB19 values
+- HL (High-Low): high hotspot score associated with low HB19 values
+- LH (Low-High): low hotspot score associated with high HB19 values
+ 
+HH and LL clusters indicate agreement between model predictions and mapped HB19 habitat values, while HL and LH clusters identify areas where the model and HB19 differ.
+
+<img width="3507" height="2480" alt="Bivariate Local Moran&#39;s I output" src="https://github.com/user-attachments/assets/5c0eb3b7-a034-4635-8b13-f56671444cc6" />
+
+
+##### Figure:  Bivariate Local Moran's I Validation of Marine Habitat Hotspot Scores Against HB19 Habitat Values.
+
 ---
 
 ## Validation
