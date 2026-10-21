@@ -244,6 +244,6 @@ scripts/
 
 ## Author
 
-**Arjuman Batu**
+**Arjuman Banu**
 
 GIS | Remote Sensing | Habitat Suitability Modelling | Marine Spatial Analysis
