@@ -26,11 +26,11 @@ The study integrates bathymetry, seabed slope, substrate type, wave exposure, an
 
 Marine study area extending from the shoreline to approximately 30 m water depth.
 
-<img width="3507" height="2480" alt="Study area_Sola" 
-
-##### Figure: Studay Area (Sola). 
 ---
 ![alt text](<Study area_V2.png>)
+
+##### Figure: Studay Area (Sola). 
+
 
 
 ## Environmental Variables
