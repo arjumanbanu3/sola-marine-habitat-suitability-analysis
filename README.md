@@ -34,7 +34,6 @@ Marine study area extending from the shoreline to approximately 30 m water depth
 =======
 ![alt text](<Study area_V2.png>)
 
->>>>>>> 8685cb5 (Add Sola habitat analysis maps and update README)
 
 ## Environmental Variables
 
@@ -50,7 +49,6 @@ The following environmental datasets were used:
 - Substrate Type (NIVA Substrate Model)
 - Wave Exposure (NIVA)
 - Light Attenuation (Emodnet)
->>>>>>> 8685cb5 (Add Sola habitat analysis maps and update README)
 
 ---
 
@@ -62,7 +60,6 @@ There area 21 nature types according to NiN3 method. For making the analysis sim
 =======
 
 ### Marine Vegetation / Macroalgae
->>>>>>> 8685cb5 (Add Sola habitat analysis maps and update README)
 
 - NT-03 Tangsamfunn
 - NT-14 Sukkertareskog
@@ -129,7 +126,6 @@ Suitability classes:
 ##### Figure: Suitability Map for Klep forest.
 =======
 ![ ](StorTare_map.png)
->>>>>>> 8685cb5 (Add Sola habitat analysis maps and update README)
 
 ### 2. Habitat Richness Mapping
 
@@ -145,7 +141,6 @@ Individual habitat suitability maps were combined into group-level richness maps
 ##### Figure: Richness Map for Klep Group
 =======
 ![alt text](Klep_Richness_Map.png)
->>>>>>> 8685cb5 (Add Sola habitat analysis maps and update README)
 
 ### 3. Hotspot Analysis
 
