@@ -128,7 +128,7 @@ Individual habitat suitability maps were combined into group-level richness maps
 - Shell Richness
 - Topography Richness
 
-  <img width="3507" height="2480" alt="Klep_Richness_Map" src="https://github.com/user-attachments/assets/4bde63be-aae4-4f59-afec-e7511696a238" />
+  <img width="3507" height="2480" alt="Klep_Richness_Map" 
 ##### Figure: Richness Map for Klep Group
 ![alt text](Klep_Richness_Map.png)
 
@@ -140,7 +140,7 @@ The richness maps were combined into a final:
 
 which identifies areas with high concentrations of potential marine habitats.
 
-<img width="3507" height="2480" alt="Hotspot_Map_V2" src="https://github.com/user-attachments/assets/a0b66136-0290-478c-a358-a3b7be31b7a1" />
+<img width="3507" height="2480" alt="Hotspot_Map_V2"
 
 ##### Final Hot Spot Map for Study Area.
 
@@ -153,7 +153,7 @@ Raster hotspot scores were converted to points and analyzed using Getis-Ord Gi* 
 - Statistically significant hotspots
 - Statistically significant coldspots
 
-  <img width="3507" height="2480" alt="Getis-Ord Gi Hotspot and Coldspot Analysis" src="https://github.com/user-attachments/assets/53ba280b-9dd5-4ccc-ac0c-bd9585e12c30" />
+  <img width="3507" height="2480" alt="Getis-Ord Gi Hotspot and Coldspot Analysis" 
 
   
 ##### Figure: Getis-Ord Gi* Analysis. 
@@ -173,7 +173,7 @@ Model outputs were visually compared with:
 
 This comparison was used to evaluate habitat suitability predictions and hotspot distributions.
 
-<img width="1232" height="560" alt="image" src="https://github.com/user-attachments/assets/26a75bb6-61f3-4037-b5d6-4ccef2da8866" /> 
+<img width="1232" height="560" alt="image" 
 
 ##### Figure: Compariron of suitability map for klep with HB_19.
 
@@ -191,7 +191,7 @@ The analysis classifies locations into four categories:
  
 HH and LL clusters indicate agreement between model predictions and mapped HB19 habitat values, while HL and LH clusters identify areas where the model and HB19 differ.
 
-<img width="3507" height="2480" alt="Bivariate Local Moran&#39;s I output" src="https://github.com/user-attachments/assets/5c0eb3b7-a034-4635-8b13-f56671444cc6" />
+<img width="3507" height="2480" alt="Bivariate Local Moran&#39;s I output" 
 
 
 ##### Figure:  Bivariate Local Moran's I Validation of Marine Habitat Hotspot Scores Against HB19 Habitat Values.
@@ -215,7 +215,7 @@ A reusable QGIS Model Builder workflow was developed to automate:
 - Richness calculations
 - Hotspot mapping
 
-<img width="3985" height="2845" alt="Model_Builder_Sola" src="https://github.com/user-attachments/assets/7e7cc1d4-a90b-41b0-865a-73a30a29df9f" />
+<img width="3985" height="2845" alt="Model_Builder_Sola" 
 
 ##### Figure: Work flow with Model Builder. 
 - Hotspot mapping 
