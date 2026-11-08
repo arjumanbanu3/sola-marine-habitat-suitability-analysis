@@ -1,3 +1,4 @@
+
 # Marine Habitat Suitability and Hotspot Mapping (NiN 3)
 
 ## Project Overview
@@ -25,10 +26,15 @@ The study integrates bathymetry, seabed slope, substrate type, wave exposure, an
 
 Marine study area extending from the shoreline to approximately 30 m water depth.
 
+<<<<<<< HEAD
 <img width="3507" height="2480" alt="Study area_Sola" src="https://github.com/user-attachments/assets/b5db49ab-d224-416c-92d3-c96638a347f1" />
 
 ##### Figure: Studay Area (Sola). 
 ---
+=======
+![alt text](<Study area_V2.png>)
+
+>>>>>>> 8685cb5 (Add Sola habitat analysis maps and update README)
 
 ## Environmental Variables
 
@@ -36,16 +42,27 @@ The following environmental datasets were used:
 
 - Bathymetry (Source: EmodNet)
 - Seafloor Slope (Derived from Bathemetry)
+<<<<<<< HEAD
 - Substrate Type (NIVA)
 - Wave Exposure (NIVA)
 - Light Attenuation (EmodNet)
+=======
+- Substrate Type (NIVA Substrate Model)
+- Wave Exposure (NIVA)
+- Light Attenuation (Emodnet)
+>>>>>>> 8685cb5 (Add Sola habitat analysis maps and update README)
 
 ---
 
 ## Habitat Groups
+<<<<<<< HEAD
 There area 21 nature types according to NiN3 method. For making the analysis simple and organize the habitats divided into 4 major groups.
 
 ### Marine Vegetation / Macroalgae (Klep)
+=======
+
+### Marine Vegetation / Macroalgae
+>>>>>>> 8685cb5 (Add Sola habitat analysis maps and update README)
 
 - NT-03 Tangsamfunn
 - NT-14 Sukkertareskog
@@ -107,8 +124,12 @@ Suitability classes:
 - 1 = Suitable
 - 0 = Unsuitable
 
+<<<<<<< HEAD
   <img width="3507" height="2480" alt="StorTare_map" src="https://github.com/user-attachments/assets/de6fdcbf-7387-43a1-87d2-cfeb4142b5a9" />
 ##### Figure: Suitability Map for Klep forest.
+=======
+![ ](StorTare_map.png)
+>>>>>>> 8685cb5 (Add Sola habitat analysis maps and update README)
 
 ### 2. Habitat Richness Mapping
 
@@ -119,8 +140,12 @@ Individual habitat suitability maps were combined into group-level richness maps
 - Shell Richness
 - Topography Richness
 
+<<<<<<< HEAD
   <img width="3507" height="2480" alt="Klep_Richness_Map" src="https://github.com/user-attachments/assets/4bde63be-aae4-4f59-afec-e7511696a238" />
 ##### Figure: Richness Map for Klep Group
+=======
+![alt text](Klep_Richness_Map.png)
+>>>>>>> 8685cb5 (Add Sola habitat analysis maps and update README)
 
 ### 3. Hotspot Analysis
 
@@ -130,22 +155,32 @@ The richness maps were combined into a final:
 
 which identifies areas with high concentrations of potential marine habitats.
 
+<<<<<<< HEAD
 <img width="3507" height="2480" alt="Hotspot_Map_V2" src="https://github.com/user-attachments/assets/a0b66136-0290-478c-a358-a3b7be31b7a1" />
 
 ##### Final Hot Spot Map for Study Area.
 
+=======
+![alt text](Hotspot_Map.png)
+>>>>>>> 8685cb5 (Add Sola habitat analysis maps and update README)
 
 ### 4. Getis-Ord Gi* Analysis
 
 Raster hotspot scores were converted to points and analyzed using Getis-Ord Gi* statistics to identify:
 
 - Statistically significant hotspots
+<<<<<<< HEAD
 - Statistically significant coldspots
 
   <img width="3507" height="2480" alt="Getis-Ord Gi Hotspot and Coldspot Analysis" src="https://github.com/user-attachments/assets/53ba280b-9dd5-4ccc-ac0c-bd9585e12c30" />
 
   
 ##### Figure: Getis-Ord Gi* Analysis. 
+=======
+- Statistically significant coldspots 
+
+![alt text](<Getis-Ord Gi Hotspot and Coldspot Analysis.png>)
+>>>>>>> 8685cb5 (Add Sola habitat analysis maps and update README)
 
 ---
 
@@ -155,6 +190,7 @@ Model outputs were visually compared with:
 
 - HB19 Marine Nature Types
 - Existing habitat datasets
+<<<<<<< HEAD
 - Known ecological patterns within the study area
 
 This comparison was used to evaluate habitat suitability predictions and hotspot distributions.
@@ -182,6 +218,14 @@ HH and LL clusters indicate agreement between model predictions and mapped HB19 
 
 ##### Figure:  Bivariate Local Moran's I Validation of Marine Habitat Hotspot Scores Against HB19 Habitat Values.
 
+=======
+- Known ecological patterns within the study area 
+
+![alt text](HB19_Map.png)
+
+This comparison was used to evaluate habitat suitability predictions and hotspot distributions.
+
+>>>>>>> 8685cb5 (Add Sola habitat analysis maps and update README)
 ---
 
 ## Automation
@@ -193,11 +237,17 @@ A reusable QGIS Model Builder workflow was developed to automate:
 - Raster preprocessing
 - Habitat suitability modelling
 - Richness calculations
+<<<<<<< HEAD
 - Hotspot mapping
 
 <img width="3985" height="2845" alt="Model_Builder_Sola" src="https://github.com/user-attachments/assets/7e7cc1d4-a90b-41b0-865a-73a30a29df9f" />
 
 ##### Figure: Work flow with Model Builder. 
+=======
+- Hotspot mapping 
+
+![alt text](Model_Builder_Sola.png)
+>>>>>>> 8685cb5 (Add Sola habitat analysis maps and update README)
 
 ### Python
 
@@ -244,6 +294,12 @@ scripts/
 
 ## Author
 
+<<<<<<< HEAD
 **Arjuman Banu**
 
 GIS | Remote Sensing | Habitat Suitability Modelling | Marine Spatial Analysis
+=======
+**Arjuman Batu**
+
+GIS | Remote Sensing | Habitat Suitability Modelling | Marine Spatial Analysis
+>>>>>>> 8685cb5 (Add Sola habitat analysis maps and update README)
