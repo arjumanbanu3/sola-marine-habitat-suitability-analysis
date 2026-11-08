@@ -115,9 +115,9 @@ Suitability classes:
 - 1 = Suitable
 - 0 = Unsuitable
 
-  <img width="3507" height="2480" alt="StorTare_map" 
-##### Figure: Suitability Map for Klep forest.
 ![ ](StorTare_map.png)
+##### Figure: Suitability Map for Klep forest.
+
 
 ### 2. Habitat Richness Mapping
 
