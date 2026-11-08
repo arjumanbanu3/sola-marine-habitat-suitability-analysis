@@ -128,9 +128,9 @@ Individual habitat suitability maps were combined into group-level richness maps
 - Shell Richness
 - Topography Richness
 
-  <img width="3507" height="2480" alt="Klep_Richness_Map" 
-##### Figure: Richness Map for Klep Group
 ![alt text](Klep_Richness_Map.png)
+##### Figure: Richness Map for Klep Group
+
 
 ### 3. Hotspot Analysis
 
@@ -140,26 +140,22 @@ The richness maps were combined into a final:
 
 which identifies areas with high concentrations of potential marine habitats.
 
-<img width="3507" height="2480" alt="Hotspot_Map_V2"
 
-##### Final Hot Spot Map for Study Area.
 
 ![alt text](Hotspot_Map.png)
+##### Figure: Final Hot Spot Map for Study Area.
+
 
 ### 4. Getis-Ord Gi* Analysis
 
 Raster hotspot scores were converted to points and analyzed using Getis-Ord Gi* statistics to identify:
 
 - Statistically significant hotspots
-- Statistically significant coldspots
-
-  <img width="3507" height="2480" alt="Getis-Ord Gi Hotspot and Coldspot Analysis" 
-
-  
-##### Figure: Getis-Ord Gi* Analysis. 
+- Statistically significant coldspots 
 - Statistically significant coldspots 
 
 ![alt text](<Getis-Ord Gi Hotspot and Coldspot Analysis.png>)
+##### Figure: Getis-Ord Gi* Analysis. 
 
 ---
 
@@ -215,12 +211,9 @@ A reusable QGIS Model Builder workflow was developed to automate:
 - Richness calculations
 - Hotspot mapping
 
-<img width="3985" height="2845" alt="Model_Builder_Sola" 
-
-##### Figure: Work flow with Model Builder. 
-- Hotspot mapping 
-
 ![alt text](Model_Builder_Sola.png)
+##### Figure: Work flow with Model Builder. 
+
 
 ### Python
 
