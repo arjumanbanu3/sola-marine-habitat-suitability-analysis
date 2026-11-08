@@ -115,7 +115,7 @@ Suitability classes:
 - 1 = Suitable
 - 0 = Unsuitable
 
-  <img width="3507" height="2480" alt="StorTare_map" src="https://github.com/user-attachments/assets/de6fdcbf-7387-43a1-87d2-cfeb4142b5a9" />
+  <img width="3507" height="2480" alt="StorTare_map" 
 ##### Figure: Suitability Map for Klep forest.
 ![ ](StorTare_map.png)
 
