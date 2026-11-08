@@ -184,17 +184,13 @@ The analysis classifies locations into four categories:
 - LL (Low-Low): low hotspot score associated with low HB19 values
 - HL (High-Low): high hotspot score associated with low HB19 values
 - LH (Low-High): low hotspot score associated with high HB19 values
- 
-HH and LL clusters indicate agreement between model predictions and mapped HB19 habitat values, while HL and LH clusters identify areas where the model and HB19 differ.
-
-<img width="3507" height="2480" alt="Bivariate Local Moran&#39;s I output" 
-
-
-##### Figure:  Bivariate Local Moran's I Validation of Marine Habitat Hotspot Scores Against HB19 Habitat Values.
-
 - Known ecological patterns within the study area 
+- HH and LL clusters indicate agreement between model predictions and mapped HB19 habitat values, while HL and LH clusters identify areas where the model and HB19 differ.
+
+
 
 ![alt text](HB19_Map.png)
+##### Figure:  Bivariate Local Moran's I Validation of Marine Habitat Hotspot Scores Against HB19 Habitat Values.
 
 This comparison was used to evaluate habitat suitability predictions and hotspot distributions.
 
