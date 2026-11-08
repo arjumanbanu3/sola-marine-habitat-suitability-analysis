@@ -169,7 +169,7 @@ Model outputs were visually compared with:
 
 This comparison was used to evaluate habitat suitability predictions and hotspot distributions.
 
-<img width="1232" height="560" alt="image" 
+![alt text](HB19_Map.png)
 
 ##### Figure: Compariron of suitability map for klep with HB_19.
 
@@ -187,9 +187,9 @@ The analysis classifies locations into four categories:
 - Known ecological patterns within the study area 
 - HH and LL clusters indicate agreement between model predictions and mapped HB19 habitat values, while HL and LH clusters identify areas where the model and HB19 differ.
 
+<img width="3507" height="2480" alt="Bivariate Local Moran&#39;s I output" src="https://github.com/user-attachments/assets/32535a2e-41aa-47a2-9796-6a048d49bc1d" />
 
 
-![alt text](HB19_Map.png)
 ##### Figure:  Bivariate Local Moran's I Validation of Marine Habitat Hotspot Scores Against HB19 Habitat Values.
 
 This comparison was used to evaluate habitat suitability predictions and hotspot distributions.
